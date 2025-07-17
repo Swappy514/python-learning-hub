@@ -81,3 +81,10 @@ Python tutorial, learn Python, Python programming examples, Python for beginners
 ---
 
 ✨ **Embark on your Python learning journey today! Happy Coding!** 🐍🎉
+
+## 📘 About this Repository
+
+A comprehensive, well-structured Python learning repository — from basics to advanced topics including OOP, recursion, data structures, debugging, and real-world industry examples. Perfect for beginners and intermediate learners aiming to master Python programming.
+
+**Tags:**  
+`python` `tutorial` `learning` `beginner` `intermediate` `advanced` `programming` `oop` `recursion` `debugging` `data-structures` `algorithms` `code-examples` `industry-projects`
